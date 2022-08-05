@@ -10,7 +10,7 @@
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>ASP.NET, Entity Framework, Signalr, NUnit, Angular, SQL Server e Postgres</strong>
+  💼 Ferramentas: <strong>ASP.NET, Entity Framework, Signalr, NUnit, Angular, Jest, NgRx, SQL Server, Oracle e Postgres</strong>
 </p>
 
 <p align="left">
