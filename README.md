@@ -1,8 +1,8 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
 <p align="left"> 
-  Olá, me chamo João Otávio 👋 <br>
-  Trabalhando como Dev Full stack no momento 👨‍💻.
+  Olá, me chamo João Otávio. 👋 <br>
+  Trabalhando como Dev Full stack no momento. 👨‍💻
 </p>
 
 <p align="left">
@@ -10,7 +10,7 @@
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>ASP.NET, Entity Framework, Signalr, NUnit, Angular, Jest, NgRx, SQL Server, Oracle e Postgres</strong>
+  💼 Ferramentas: <strong>ASP.NET, Entity Framework, Signalr, NUnit, Angular, Jest, NgRx, SQL Server, Oracle e Postgres.</strong>
 </p>
 
 <p align="left">
